@@ -1,9 +1,11 @@
+[![Sigrid pull request feedback](https://github.com/dthienn/sigridworkshop/actions/workflows/sigrid-pullrequest.yml/badge.svg)](https://github.com/dthienn/sigridworkshop/actions/workflows/sigrid-pullrequest.yml)
+
 Assignments for Sigrid Workshop
 ==========
 This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
 If you want to use this code in a training yourself please contact us at <support@sig.eu>.
-Hi
+Hihihi
 About The Assignment Code
 -----------
 The training examples are code snippets from the book Building Maintainable Software: Ten Guidelines for Future-Proof Code by Joost Visser.
