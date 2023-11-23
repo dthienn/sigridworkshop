@@ -1,3 +1,5 @@
+[![Sigrid pull request feedback](https://github.com/dthienn/sigridworkshop/actions/workflows/sigrid-pullrequest.yml/badge.svg)](https://github.com/dthienn/sigridworkshop/actions/workflows/sigrid-pullrequest.yml)
+
 Assignments for Sigrid Workshop
 ==========
 This repository is part of the Sigrid training.<br />
